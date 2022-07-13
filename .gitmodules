@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "OmaDB"]
+	path = OmaDB
+	url = https://github.com/dessimozlab/omadb
+	shallow = true
+	registered = true
